@@ -1,0 +1,6 @@
+﻿  practicalWork2.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\305-4\Desktop\Abdulazimov_PR-31\practicalWork2\practicalWork2.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\305-4\Desktop\Abdulazimov_PR-31\practicalWork2\practicalWork2.cpp(52,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\305-4\Desktop\Abdulazimov_PR-31\practicalWork2\practicalWork2.cpp(54,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  practicalWork2.vcxproj -> C:\Users\305-4\Desktop\Abdulazimov_PR-31\practicalWork2\Debug\practicalWork2.exe
